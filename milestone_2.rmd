@@ -23,4 +23,9 @@ The only criticism I have, which Albert addressed himself, is the lack of demogr
 
 By Jordan Topoleski, [Project Link](https://jtopoleski.shinyapps.io/What-Makes-a-Hit-Song/)
 
+The question Jordan explored was what are the possible contributing factors to making a Billboard charts top hit. He looked at data from the past some 20 years, starting in 2000. What was really great about Jordan's project was on his line graph showing the number of songs on the Billboard charts over the years, he included vertical lines indicating the inception of Youtube, Spotify, and Apple Music. I thought this provided some really important and useful context for understanding the data and how the changing music industry might have played a role in shaping the criteria for what makes a Billboardcharts top hit. He also added additional variables to his bar chart relating song genre and number of Billboard appearances, which made it a lot more informational because you could compare across those variables to check for any patterns. The variables were the year (you can check boxes for one, multiple, or all years to see a specific or cumulative value) and the song's highest rating. 
+
+One downside to Jordan's project was while he could highlight correlation between variables, he could not determine a causal relationship between any of the variables and whether not the songs were top hits because there was no randomized experiment. Also, I think something that Jordan could have looked into more was the "artist" variable. I'm guessing that perhaps a lot of artists who are already really famous are more likely to get more support and listeners because of their fanbase and, as a result, consecutive Billboard top hits. It would have been interesting for him to look at whether or not already having made a Billboard top hit had any kind of correlation with the success of making future ones. 
+
+
 
