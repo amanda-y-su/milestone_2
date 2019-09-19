@@ -9,3 +9,18 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Chicago Ride Share Comparisons. Does Christmas affect ride-share and rider behavior?
+
+By Albert Shin, [Project Link](https://treblashin.shinyapps.io/chicago-rides/)
+
+Albert looked at how Christmas (a holiday) affected ride-share and rider behavior in 2018. The original dataset contained over 17 million rows of data, so Albert decided to only look at an compare data from December 25, 2018 (a holiday) and December 4, 2018 (a non-holiday that is the same day of the week as December 25). He was still left with 300 thousand rows so he took a random sample of 25 thousand rows to ensure graphs were still readable. 
+
+I thought his project was absolutely amazing. First of all, it was so cool how he plotted his data points on an actual map where you could use a slider to see the number of rides per day and zoom in to get a closer look at the exact geographical locations of data points — which is so much more interesting and informative than just a simple x-y axis graph. In addition to the map, Albert also included a bar graph clearly showing the exact numerical difference between the number of rideshares on a non-holiday day and that of a holiday day. His line graph lets you see the change in number of rides throughout the day, which highlighted that on December 4 there were peaks during the hours people get on and off work while those peaks were nonexistent in Christmas line. This meant he could reasonably guess that it's because people call rides to and from work on workdays. The variety of graphs and information (tips, fare, miles, additional charges) made this project very professional and thorough. 
+
+The only criticism I have, which Albert addressed himself, is the lack of demographic information (gender, age, race/ethnicity). If he had this information, we could have potentially looked for interesting patterns in the data. For example, an age variable could have corroborated Albert's guess that the peaks in the December 4 data were because of working hours by comparing the number of rides across age groups (students, working adults, retired people). 
+
+## What makes a top hit on the Billboard charts?
+
+By Jordan Topoleski, [Project Link](https://jtopoleski.shinyapps.io/What-Makes-a-Hit-Song/)
+
+
